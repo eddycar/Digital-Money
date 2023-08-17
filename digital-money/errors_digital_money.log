@@ -1,0 +1,22 @@
+
+
+[2023-06-2121:36:49] [ ERROR] [GlobalException:15] We can´t create the user account because the user associated in the account its already in use 
+[2023-06-2616:59:08] [ ERROR] [GlobalException:15] This email is already associated with an user created
+[2023-06-2617:04:26] [ ERROR] [GlobalException:15] This email is already associated with an user created
+[2023-06-2617:04:37] [ ERROR] [GlobalException:15] This email is already associated with an user created
+[2023-06-2818:58:34] [ ERROR] [GlobalException:15] This email is already associated with an user created
+[2023-06-2916:46:09] [ ERROR] [GlobalException:25] [409] during [POST] to [http://localhost:8085/cards] [ICardFeignRepository#saveCard(Card)]: [We got a problem the card number it´s already associated with the user account]
+[2023-06-2916:48:02] [ ERROR] [GlobalException:25] [409] during [POST] to [http://localhost:8085/cards] [ICardFeignRepository#saveCard(Card)]: [We got a problem the card number it´s already associated with the user account]
+[2023-06-2916:49:45] [ ERROR] [GlobalException:20] We don't found any userAccount with the id: 12
+[2023-06-2916:49:55] [ ERROR] [GlobalException:20] We don't found any userAccount with the id: 12
+[2023-06-2916:50:06] [ ERROR] [GlobalException:20] [404] during [GET] to [http://localhost:8085/cards/999] [ICardFeignRepository#findCardById(Long)]: [We don´t found any card associated with the id : 999]
+[2023-06-2916:50:23] [ ERROR] [GlobalException:20] We don't found any userAccount with the id: 19
+[2023-06-2916:53:03] [ ERROR] [GlobalException:15] Card is expired
+[2023-06-2922:06:50] [ ERROR] [GlobalException:15] We cannot create the user account because the length of the cvu is not correct
+[2023-06-2922:24:42] [ ERROR] [GlobalException:20] We don't found any userAccount with the id: 12
+[2023-06-2922:24:57] [ ERROR] [GlobalException:20] We did not find any transactions related to the account ID.
+[2023-06-2922:25:06] [ ERROR] [GlobalException:20] We did not find any transactions related to the account ID.
+[2023-06-2923:36:32] [ ERROR] [GlobalException:20] We don't found any userAccount with the id: 99
+[2023-06-2923:37:23] [ ERROR] [GlobalException:20] We don't found any userAccount with the id: 99
+[2023-06-2923:37:39] [ ERROR] [GlobalException:20] We don't found any userAccount with the id: 999
+[2023-06-2923:39:50] [ ERROR] [GlobalException:20] We don't found any userAccount with the id: 999
